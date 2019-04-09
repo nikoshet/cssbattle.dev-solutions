@@ -1,6 +1,6 @@
 ##cssbattle.dev
 
-These are my submissions for [cssbattle.dev](cssbattle.dev)
+These are my submissions for [cssbattle.dev](https://cssbattle.dev)
 
 My current position at global leaderboard is 118/10500.
 Some solutions may be a little rushed.
