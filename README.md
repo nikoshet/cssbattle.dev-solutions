@@ -1,6 +1,6 @@
 # cssbattle.dev
 
-### These are my submissions for [cssbattle.dev](https://cssbattle.dev).
+### These are my submissions for [cssbattle.dev](https://cssbattle.dev) Battle #1 - Pilot Battle.
 
 My current position at global leaderboard is 117/10500.
 Some solutions may be a little rushed.
